@@ -1,5 +1,5 @@
 # Centrifugal Dust Separator - 3D Printer Files
-The centrifugal dust separator is inspired by the commercial systems which use a centrifugal dust extraction process to clean the air.  These files will allow you to 3D print all the necessary pieces to build your own system.  Simply download the files from the [stl](src/) folder, import into your favorite slicer, choose your favorite filament, and grab a 6" PVC tube.
+The centrifugal dust separator is inspired by the commercial systems which use a centrifugal dust extraction process to clean the air.  These files will allow you to 3D print all the necessary pieces to build your own system.  Simply download the files from the [stl](./src) folder, import into your favorite slicer, choose your favorite filament, and grab a 6" PVC tube.
 
 Cut Tube Length to: 19-1/4"
 
